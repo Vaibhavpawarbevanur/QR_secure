@@ -1,0 +1,7 @@
+{
+  "name": "Secure QR Scanner Lab",
+  "description": "A cybersecurity project showcase featuring a secure QR scanner with user authentication, phishing detection, and SHA-256 hashing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
